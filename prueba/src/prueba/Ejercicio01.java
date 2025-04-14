@@ -13,6 +13,8 @@ public class Ejercicio01 {
 	      
 		diagonal(matriz);
 	}
+	
+	//hola como va ke ase
 
 	
 	
